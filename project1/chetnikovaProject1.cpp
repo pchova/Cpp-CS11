@@ -1,3 +1,8 @@
+/*  Polina Chetnikova
+    LBCC CS11
+    Printing and Formatting User Input for employees and hours worked
+*/
+
 #include <iostream>
 using namespace std;
 
