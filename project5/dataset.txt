@@ -1,0 +1,6 @@
+Chisel 50 9.99
+Hammer 30 15.99
+Nails 2000 0.99
+Bolts 200 2.99
+Nuts 300 1.99
+Soap 55 1.89
