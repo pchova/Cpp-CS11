@@ -1,6 +1,7 @@
 /*  Polina Chetnikova
     CS11 LBCC
-    Project 9 
+    Project 9 - Enter a Roman Numeral and returns an int
+    Use of Constructors and OOP
     10 August 2025
 */
 #include <iostream>
