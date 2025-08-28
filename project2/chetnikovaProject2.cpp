@@ -1,3 +1,8 @@
+/*  Polina Chetnikova
+    CS11 LBCC
+    Calculate Student Grades and Averages from user input    
+*/
+
 #include <iostream>
 #include <string>
 #include <iostream>
