@@ -1,8 +1,8 @@
-#Intro to C++
+# Intro to C++
 
 9 projects from my Intro to C++ class
 
-##Table of Contents
+## Table of Contents
 
 1. Printing and Formatting User Input
 2. Calculate Student Grades and Averages 
